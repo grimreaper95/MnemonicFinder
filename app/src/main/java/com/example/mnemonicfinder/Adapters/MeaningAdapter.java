@@ -1,4 +1,4 @@
-package com.example.vocabuilder.Adapters;
+package com.example.mnemonicfinder.Adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
 
-import com.example.vocabuilder.Models.MeaningModel;
-import com.example.vocabuilder.R;
+import com.example.mnemonicfinder.Models.MeaningModel;
+import com.example.mnemonicfinder.R;
 
 import java.util.List;
 

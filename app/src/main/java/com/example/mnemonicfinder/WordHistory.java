@@ -1,4 +1,4 @@
-package com.example.vocabuilder;
+package com.example.mnemonicfinder;
 
 import android.os.Bundle;
 import android.view.View;

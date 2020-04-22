@@ -1,4 +1,4 @@
-package com.example.vocabuilder;
+package com.example.mnemonicfinder;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,14 +10,12 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
 import android.widget.Toast;
 
-import com.example.vocabuilder.Adapters.MeaningAdapter;
-import com.example.vocabuilder.Adapters.MnemonicAdapter;
-import com.example.vocabuilder.Models.MeaningModel;
-import com.example.vocabuilder.Models.MnemonicModel;
+import com.example.mnemonicfinder.Adapters.MeaningAdapter;
+import com.example.mnemonicfinder.Adapters.MnemonicAdapter;
+import com.example.mnemonicfinder.Models.MeaningModel;
+import com.example.mnemonicfinder.Models.MnemonicModel;
 import com.google.android.material.navigation.NavigationView;
 
 import org.json.JSONArray;

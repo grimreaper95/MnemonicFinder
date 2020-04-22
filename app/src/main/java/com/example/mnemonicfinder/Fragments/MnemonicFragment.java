@@ -1,4 +1,4 @@
-package com.example.vocabuilder.Fragments;
+package com.example.mnemonicfinder.Fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.example.vocabuilder.R;
+import com.example.mnemonicfinder.R;
 
 public class MnemonicFragment extends Fragment {
     @Nullable

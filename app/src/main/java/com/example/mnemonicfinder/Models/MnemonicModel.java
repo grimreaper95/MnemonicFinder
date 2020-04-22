@@ -1,4 +1,4 @@
-package com.example.vocabuilder.Models;
+package com.example.mnemonicfinder.Models;
 
 public class MnemonicModel {
     private String mnemonic;

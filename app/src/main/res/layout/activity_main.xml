@@ -12,12 +12,12 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-        <fragment android:name="com.example.vocabuilder.Fragments.MeaningFragment"
+        <fragment android:name="com.example.mnemonicfinder.Fragments.MeaningFragment"
             android:id="@+id/meaning_fragment"
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
-        <fragment android:name="com.example.vocabuilder.Fragments.MnemonicFragment"
+        <fragment android:name="com.example.mnemonicfinder.Fragments.MnemonicFragment"
             android:id="@+id/mnemonic_fragment"
             android:layout_weight="1"
             android:layout_width="match_parent"
