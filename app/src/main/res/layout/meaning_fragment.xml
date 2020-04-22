@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.viewpager.widget.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:foregroundGravity="top"
+        android:layout_alignParentTop="true"
+        android:overScrollMode="never"
+        android:clipToPadding="false"
+        android:id="@+id/meaning_view_pager">
+    </androidx.viewpager.widget.ViewPager>
+</RelativeLayout>
